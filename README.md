@@ -128,6 +128,8 @@ Python · pandas · openpyxl · Google Colab · (próximamente) SQLite y pytest
 3. Agregar tests con pytest para las reglas R1 a R9.
 4. Cargar la base SQLite y escribir `queries.sql`.
 
+Este proyecto se desarrolló con apoyo de Claude (IA) para documentación y revisión; el diseño de las reglas de negocio y la validación de los resultados son propios.
+
 ## Autora
 
 **Safira Yael Abraham** — QA Junior · [GitHub](https://github.com/abrahamsafirayael-gif)
